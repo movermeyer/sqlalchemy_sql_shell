@@ -1,7 +1,7 @@
 sqlalchemy_sql_shell
 ====================
 
-.. image:: https://pypip.in/version/sqlalchemy_sql_shell/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/v/sqlalchemy_sql_shell.svg?style=flat
     :target: https://pypi.python.org/pypi/sqlalchemy_sql_shell/
     :alt: Latest Version
 
